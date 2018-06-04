@@ -1,0 +1,2 @@
+# jiraguard
+Jira automatic testing
