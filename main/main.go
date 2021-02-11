@@ -11,9 +11,9 @@ import(
 	//"golang.org/x/crypto/ssh/terminal"
 )
 
-const url = "https://hosturl.com"
+const url = "https://url/jira"
 const user = "yourusername"
-const pw = "your_password"
+const pw = "password"
 
 func main() {
 	//r := bufio.NewReader(os.Stdin)
