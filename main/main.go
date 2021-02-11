@@ -12,8 +12,8 @@ import(
 )
 
 const url = "https://url/jira"
-const user = "yourusername"
-const pw = "password"
+const user = "myusername"
+const pw = "mypassword"
 
 func main() {
 	//r := bufio.NewReader(os.Stdin)
